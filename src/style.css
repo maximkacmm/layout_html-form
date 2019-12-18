@@ -1,15 +1,14 @@
-fieldset {
+.wrapper {
   margin-bottom: 20px;
   padding-top: 6px;
   padding-bottom: 0;
 }
 
-p {
-  margin-top: 0;
-  margin-bottom: 10px;
-  justify-content: center;
+.wrapper__inner {
+  display: block;
+  margin: 0 0 10px;
 }
 
-.other-padding {
+.wrapper.wrap {
   padding-top: 5px;
 }

@@ -1,0 +1,15 @@
+fieldset {
+  margin-bottom: 20px;
+  padding-top: 6px;
+  padding-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+.other-padding {
+  padding-top: 5px;
+}
